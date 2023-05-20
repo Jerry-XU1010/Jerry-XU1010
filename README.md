@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是Jerry，一个六年级学生，喜欢编程，参与一个叫做Ligure Studio的不知名团队。
+我是Jerry，一个六年级学生，喜欢编程，加入了一个叫做Ligure Studio的不知名团队。
 
 <!--
 **Jerry-XU1010/Jerry-XU1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
